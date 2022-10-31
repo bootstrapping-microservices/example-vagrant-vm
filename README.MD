@@ -2,7 +2,7 @@
 
 An example Vagrant virtual machine setup with Docker and Terraform installed.
 
-This example accompanies the book [Bootstrapping Microservices](http://bit.ly/2o0aDsP). It's a practical and project based guide that takes you from a single microservice on your dev PC to a complete microservices application deployed to a production Kubenetes cluster.
+This example accompanies the book [Bootstrapping Microservices](https://www.bootstrapping-microservices.com). It's a practical and project based guide that takes you from a single microservice on your dev PC to a complete microservices application deployed to a production Kubenetes cluster.
 
 [Click here to support my work](https://www.codecapers.com.au/about#support-my-work)
 
